@@ -11,21 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* High School Diploma from Traverse City West High School
+* A.S. in Arts & Sciences, Northwest Michigan University, 2015
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2007 - Present: JPM Auto Ltd. Assistant Mechanic
+  * Execut automotive repair work such as brake work, water pump replacement, and tune-ups.
+  * Preformed Auto-body repair and restoration projects including body panel replacement and paintwork.
+  * Still actively employed during the summers.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 29, 2016 - July 14, 2017: Chemical Bank Bank Teller
+  * Promoted basic accounts and services Chemical Bank offers
+  * Processed customer banking requests including deposits and withdrawals
+  * Identified fraudulent activity when it presented itself
+  
+* Summer 2015: Olive Garden Host/Server
+  * Escorted customers to their seating arrangements.
+  * Arranged seating layouts based off customer traffic.
+  * Served customers food/beverages.
+  
+* February 18, 2013 - July 21, 2014: Tom's Food Markets Cashier/Deli Worker
+  * Preformed basic cashier transactions for customers. 
+  * Stocked deli compartment with sandwiches, salads, and deli goods and assisted customers.
+  * Stocked various compartment shelves when slow.
+  
+
+  
+  
+
   
 Skills
 ======
