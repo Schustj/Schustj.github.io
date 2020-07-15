@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jonathan Schuster / Ferris State University"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jonathan Schuster"
+description              : &description "Hi, my name is Jonathan Schuster and I am currently enrolled at Ferris State University. I'm a full-time student studying Optometry, and plan on finishing my Bachelor's degree Fall 2020. I'm interested in furthering my study through Ferris State University, but leaving my options open to other universities. Outside of schooling, I work as a mechanic at my family's business. Some of my hobbies include disc golf, running, and building computers. That's just a little about myself!"
+url                      : https://jonathanschuster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jonathanschuster/jonathanschuster.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jonathan Schuster"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Student at Ferris State University. Studying Optometry, but it wasn't initially my first career path. I was undecided entering college. All I knew was my parents wanted me to continue my schooling. I started pursuing 'Cyber Security' through Ferris State University. A few years into the program I realized I wasn't as passionate as my professors about the subject. I was discouraged and knew the path wasn't meant for me. One day, I was getting my routine eye appointment when it dawned on me. A light bulb flashed as I came to knowledge on the career I truly wanted to pursue. I became obsessed with the eyes and switched my major over to Optometry. I plan to finish my undergrad Fall of 2020 and push onwards at the graduate level. I'm hard-working, driven, and extremely energetic. These characteristics have kept me on track these past few years and will continue to drive me to where I want to land. Outside of school, I enjoy disc golf, running, and building computers. My summers consist of those activites and working at my family's auto repair facility."
+  location         : "Traverse City, MI"
+  employer         : "JPM Automotive"
+  pubmed           : 
+  googlescholar    : 
+  email            : "schustj@ferris.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jonathan.schuster.79/"
   foursquare       :
-  github           : "academicpages"
+  github           : "Schustj"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/j.shoester/?hl=en"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
