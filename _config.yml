@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jonathan Schuster / Ferris State University"
 title_separator          : "-"
 name                     : &name "Jonathan Schuster"
-description              : &description "Hi, my name is Jonathan Schuster and I am currently enrolled at Ferris State University. I'm a full-time student studying Optometry, and plan on finishing my Bachelor's degree Fall 2020. I'm interested in furthering my study through Ferris State University, but leaving my options open to other universities. Outside of schooling, I work as a mechanic at my family's business. Some of my hobbies include disc golf, running, and building computers. That's just a little about myself!"
+description              : &description "Student at Ferris State University. Studying Optometry, but it was not initially my first career path. I was undecided entering college. All I knew was my parents wanted me to continue my schooling. I started pursuing 'Cyber Security' through Ferris State University. A few years into the program I realized I wasn't as passionate as my professors about the subject. I was discouraged and knew the path wasn't meant for me. One day, I was getting my routine eye appointment when it dawned on me. A light bulb flashed as I came to knowledge on the career I truly wanted to pursue. I became obsessed with the eyes and switched my major over to Optometry. I plan to finish my undergrad Fall of 2020 and push onwards at the graduate level. I am hard-working, driven, and extremely energetic. These characteristics have kept me on track these past few years and will continue to drive me to where I want to land. Outside of school, I enjoy disc golf, running, and building computers. My summers consist of those activities and working at my family's auto repair facility."
 url                      : https://Schustj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Schustj/Schustj.github.io"
@@ -26,7 +26,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook               : "https://www.facebook.com/jonathan.schuster.79/"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Schuster"
   avatar           : "website.png"
-  bio              : "Student at Ferris State University. Studying Optometry, but it wasn't initially my first career path. I was undecided entering college. All I knew was my parents wanted me to continue my schooling. I started pursuing 'Cyber Security' through Ferris State University. A few years into the program I realized I wasn't as passionate as my professors about the subject. I was discouraged and knew the path wasn't meant for me. One day, I was getting my routine eye appointment when it dawned on me. A light bulb flashed as I came to knowledge on the career I truly wanted to pursue. I became obsessed with the eyes and switched my major over to Optometry. I plan to finish my undergrad Fall of 2020 and push onwards at the graduate level. I'm hard-working, driven, and extremely energetic. These characteristics have kept me on track these past few years and will continue to drive me to where I want to land. Outside of school, I enjoy disc golf, running, and building computers. My summers consist of those activites and working at my family's auto repair facility."
+  bio              : "Hi, my name is Jonathan Schuster and I am currently enrolled at Ferris State University. I'm a full-time student studying Optometry, and plan on finishing my bachelor’s degree Fall 2020. I'm interested in furthering my study through Ferris State University but leaving my options open to other universities. Outside of schooling, I work as a mechanic at my family's business. Some of my hobbies include disc golf, running, and building computers. That is just a little about me!"
   location         : "Traverse City, MI"
   employer         : "JPM Automotive"
   pubmed           : 
