@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * June 2007 - Present: JPM Auto Ltd. Assistant Mechanic
-  * Execut automotive repair work such as brake work, water pump replacement, and tune-ups.
+  * Execute automotive repair work such as brake work, water pump replacement, and tune-ups.
   * Preformed Auto-body repair and restoration projects including body panel replacement and paintwork.
   * Still actively employed during the summers.
 
